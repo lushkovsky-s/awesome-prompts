@@ -15,11 +15,10 @@ Document:
 ``
 ```
 
-Placements:
-`{{ language }}` - Your target language (`English`, `Gemran`, etc)
-`{{ target }}` - The desired document role (e.g. `about document for a team of translators offering their services to youtube creators`)
-`{{ document }}` - Copy-paste of the document content
-``
+Placements:  
+`{{ language }}` - Your target language (`English`, `Gemran`, etc)  
+`{{ target }}` - The desired document role (e.g. `about document for a team of translators offering their services to youtube creators`)  
+`{{ document }}` - Copy-paste of the document content  
 
 ## Result
 
