@@ -13,10 +13,10 @@ Highlight with underline what exactly delineates the word making it unique/disti
 Also distinguish each word with own emoji
 ```
 
-Parameter:
-`{{ language }}` - Your target language (`English`, `Gemran`, etc)
-`{{ to_delineate }}` - Things to delineate via `vs` (e.g. `adjecent vs neighboring`)
-``
+Parameters:  
+`{{ language }}` - Your target language (`English`, `Gemran`, etc)  
+`{{ to_delineate }}` - Things to delineate via `vs` (e.g. `adjecent vs neighboring`)  
+
 
 ## Result
 
