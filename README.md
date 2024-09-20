@@ -9,4 +9,4 @@ My Chat GPT prompt templates
 | [Nutrition check](./nutrition_review.md) | List all groceries you use in your dietary -> get a score of it's comprehenciveness and list of deficites you may have | Sep 20, 2024 | 
 
 
-[Patreon](patreon.com/slushkovskis)
+[Patreon](https://patreon.com/slushkovskis)
