@@ -1,5 +1,7 @@
 # Spices fit
 
+![](https://img.shields.io/badge/model-chatgpt_4_turbo-blue)
+
 For cooking. Lists fit of each spice to target dish
 
 ## Prompt template
