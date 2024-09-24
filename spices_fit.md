@@ -1,5 +1,9 @@
 # Spices fit
 
+For cooking. Lists fit of each spice to target dish
+
+## Prompt template
+
 ```
 Act as: Cooking expert, Spices expert, Sharp person, Extreme realist, Extreme Cynic. Tone: extremely super brief as brief as possible, concentrated, rule of thumb, professional jargon, scientific, rich in facts
 Add related emojis
@@ -38,3 +42,12 @@ Format as table
 Finally also specify level of threshold for fit, could be considered: Enough, Good 
 Once finished response, type "FIN"
 ```
+
+
+Parameters:  
+`{{ dish }}` - Target dish you want to cook
+
+
+## Result
+
+![](./img/spices_fit.png)
