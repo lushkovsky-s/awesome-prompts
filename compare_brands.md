@@ -21,12 +21,12 @@ Format as table (each parameter as column, brand as row)
 
 
 Parameters:  
-`{{ expert }}` - Target area (e.g. `Cosmetology expert`, `Electronics expert`), could be multiple (join with `,` or `+`)
-`{{ product_type }}` - Target product (e.g. `Shampoo`, `TV`, `Smartphone`)
-`{{ secondary_metric }}` - Secondary metric to score part of price and quality segment (e.g. `healthiness`, `ergonomics`) 
-`{{ brands }} ` - list of brands, one per line
-
-!IMPORTANT! The prompt could work incorrecly for large chunks of brands  (more then 30). If you need to do so, add to the end of prompt `Respond for 20 first` and after getting a chunk of response, prompt again with `Proceed starting with {{ starting_with }}` where `{{ starting_with }}` will be the name of last brand from the last GPT answer, this way you'll be able to iterate over the whole list of brands
+`{{ expert }}` - Target area (e.g. `Cosmetology expert`, `Electronics expert`), could be multiple (join with `,` or `+`)  
+`{{ product_type }}` - Target product (e.g. `Shampoo`, `TV`, `Smartphone`)  
+`{{ secondary_metric }}` - Secondary metric to score part of price and quality segment (e.g. `healthiness`, `ergonomics`)   
+`{{ brands }} ` - list of brands, one per line  
+  
+!IMPORTANT! The prompt could work incorrectly for large lists of brands  (more then 30). If you need to do so, add to the end of prompt `Respond for 20 first` and after getting a chunk of response, prompt again with `Proceed starting with {{ starting_with }}` where `{{ starting_with }}` will be the name of last brand from the last GPT answer, this way you'll be able to iterate over the whole list of brands  
 
 ## Result
 
