@@ -17,7 +17,6 @@ Brands:
 {{ brands }} 
 
 Format as table (each parameter as column, brand as row)
-Once finished answer type 'FIN'
 ```
 
 
