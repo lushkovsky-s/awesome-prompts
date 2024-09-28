@@ -1,8 +1,8 @@
-# Spices fit
+# Compare brands
 
 ![](https://img.shields.io/badge/model-chatgpt_4_turbo-blue)
 
-For cooking. Lists fit of each spice to target dish
+To decide between products
 
 ## Prompt template
 
